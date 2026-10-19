@@ -1,2 +1,4 @@
 # yahoo-fantasy-digest
-Personal fantasy basketball daily digest tool (single user, read-only)
+Personal, single-user tool for one Yahoo Fantasy Basketball league.
+Reads my own roster, free agents, and league rosters (read-only)
+and emails me a daily summary. Not published, shared, or commercial.
